@@ -1,0 +1,7 @@
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\bin\Debug\True-Or-False.exe.config
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\bin\Debug\True-Or-False.exe
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\bin\Debug\True-Or-False.pdb
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\obj\Debug\True-Or-False.csprojAssemblyReference.cache
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\obj\Debug\True-Or-False.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\obj\Debug\True-Or-False.exe
+D:\GitHubProjects\True-or-False-Quiz\src\True-Or-False\True-Or-False\obj\Debug\True-Or-False.pdb
